@@ -1,0 +1,17 @@
+Jaime,4500
+Rey Arturo,1320
+Walker,3211
+Napoleón, 3232
+Dinosaurio,2121
+Artrópodo,3211
+Conejo,1212
+Cid Campeador,2139
+Sol,1574
+Luna,1745
+Perro,2936
+Rayo,1634
+Desastre,2791
+Elefante,1635
+Ardilla,1234
+Alguien,1550
+Juan,1200
